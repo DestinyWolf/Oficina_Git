@@ -16,5 +16,5 @@ Jogo da forca !!
 
 dica : fruta
 
-a
-_ _ _ _
+
+_ a _ a
