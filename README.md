@@ -12,9 +12,6 @@ Jogo da forca !!
 |
 |
 |
+[dica: uma ideia e também existe concretamente na vida real, também um conceito do nosso curso, de uma certa disciplina]
+_ _ _ _ _ _
 
-
-dica : fruta
-
-maçã
-_ a _ ã
