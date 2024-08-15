@@ -8,7 +8,7 @@ Criado para a oficina de git com mateus borgers matob, senior em desenvolviemnto
 Edite ok maike.
     Eu errei mas to tentando acertar .
 
-    |    | 
+    | x  | 
 --- |----|----
     |  o | 
 ----|----|----
