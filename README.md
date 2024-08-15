@@ -16,5 +16,5 @@ Jogo da forca !!
 
 dica : fruta
 
-
-_ a _ a
+maçã
+_ a _ ã
